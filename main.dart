@@ -54,4 +54,21 @@ void main() {
   // }
 
   //  ======= answer of question no 8 =========
+
+  var student = ['bilal', 'asim', 'kamran'];
+  var score = [20, 30, 40];
+  var totla = 500;
+
+  //  ======= answer of question no 9 =========
+
+  //  legal variable   [ name , name1 , f_name , x , fatherName ]
+  //  illegal variable [ 1name , $name , f.name , 123 , father-name]
+
+  //  ======= answer of question no 10 =========
+
+  // var city = 'Hyderabad';
+  // var cheng = city.replaceAll('Hyder', 'islam');
+  // print(cheng);
+
+  //  ======= answer of question no 11 =========
 }
