@@ -69,6 +69,4 @@ void main() {
   // var city = 'Hyderabad';
   // var cheng = city.replaceAll('Hyder', 'islam');
   // print(cheng);
-
-  //  ======= answer of question no 11 =========
 }
