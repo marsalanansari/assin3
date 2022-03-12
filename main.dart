@@ -69,4 +69,8 @@ void main() {
   // var city = 'Hyderabad';
   // var cheng = city.replaceAll('Hyder', 'islam');
   // print(cheng);
+
+  //  ======= answer of question no 11 =========
+
+  //  sir agy thora mushkil tha mujeh samujh nhi aa raha tha is lye nhi kar paya
 }
